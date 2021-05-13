@@ -1,1 +1,1 @@
-this is a slide system made using just html, css and base javascript, i made it to traine the logic behing the system, to see the step to step of this kind of system and maybe until use in my future projects
+this is a slide system made using just html, css and base javascript, i made it to traine the logic behind the system, to see the step to step of this kind of system and maybe until use in my future projects

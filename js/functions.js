@@ -7,7 +7,7 @@ const index = images_box.length - 1;
 let slide = 0;
 
 /*the function bellow is responsable to do the selected bullet's color change and the change of
-image showed in the screen*/
+image showed on the screen*/
 function slideBullet(i){
     for(x = 0; x <= index; x++){
         bullet[x].className = bullet[x].className.replace('active', '');
